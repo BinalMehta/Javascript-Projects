@@ -1,0 +1,9 @@
+In this project/page I learned the key concepts like:
+
+- Objects
+- DOMContentLoaded
+- addEventListener()
+- array.length
+- textContent
+
+Also used Math.random which was used previously.
