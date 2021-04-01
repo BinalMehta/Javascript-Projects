@@ -1,0 +1,8 @@
+In this project I learnt various topics like:
+
+- document.querySelectorAll()
+- forEach()
+- addEventListener()
+- currentTargetproperty
+- classList
+- textContent
